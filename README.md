@@ -11,7 +11,7 @@ cd testcontainers-cloud-java-example
 ./mvnw test
 ```
 
-## Verify the agent is running
+## Verify the agent is running 
 
 ✅ __Passive State__: Agent awaiting a Testcontainers test to be executed. 
 
